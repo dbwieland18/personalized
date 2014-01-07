@@ -60,6 +60,11 @@ ul.nav li a {
   border: 8px solid #FAF3BC;
 }
 
+#headshot {
+  border-radius: 50%;
+  border: 8px solid #FAF3BC;
+}
+
 #copyright {
   border-top: 8px solid #2A0400;
   padding: 10px 0px;
